@@ -1,4 +1,4 @@
-<img width="998" height="548" alt="image" src="https://github.com/user-attachments/assets/70b51aa5-f435-4831-b9c6-4fd0ef33a112" /># Ex-4 Rail-Fence-Program
+# Ex-4 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
